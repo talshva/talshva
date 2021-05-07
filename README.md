@@ -91,7 +91,7 @@
 
 ## My Projects
 
-### Web Projects
+### Web
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=MineSweeper)](https://github.com/talshva/MineSweeper)
 
@@ -99,10 +99,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=OOP-Aquarium)](https://github.com/talshva/OOP-Aquarium)
 
-### Robotics and Hardware Projects
+### Robotics and Hardware
 
 
-### Other Projects
+### Other
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=Tic-Tac-Toe)](https://github.com/talshva/Tic-Tac-Toe)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=Ben-Gurion-University-Exercises)](https://github.com/talshva/Ben-Gurion-University-Exercises)
