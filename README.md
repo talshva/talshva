@@ -13,7 +13,7 @@
         <samp>
                 「 From Beer Sheva, Israel 」
                 <br>
-                「 Computer Engineering student @<b href="https://in.bgu.ac.il/en/pages/default.aspx" target="_blank"> Ben Gurion University</b> 」
+                「 Computer Engineering student <b target="_blank" href="https://in.bgu.ac.il/en/pages/default.aspx/">@ Ben Gurion University<b> 」
                 <br>
                 <br>
         </samp>
