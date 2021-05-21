@@ -99,7 +99,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=OOP-Aquarium)](https://github.com/talshva/OOP-Aquarium)
         
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=MineSweeper)](https://github.com/talshva/String-Encryption)        
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=String-Encryption)](https://github.com/talshva/String-Encryption)        
 
 ### Robotics and Hardware
 
