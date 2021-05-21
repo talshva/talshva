@@ -56,7 +56,7 @@
         <!-- Activity Widget -->
         <img alt="Tal Shvartzberg's GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=talshva&show_icons=true&theme=radical" />
-                https://komarev.com/ghpvc/?username=talshva&color=green
+                ![](https://komarev.com/ghpvc/?username=your-github-username&color=green
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
