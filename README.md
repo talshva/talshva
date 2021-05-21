@@ -98,6 +98,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=Game-of-Life)](https://github.com/talshva/Game-of-Life)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=OOP-Aquarium)](https://github.com/talshva/OOP-Aquarium)
+        
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=MineSweeper)](https://github.com/talshva/String-Encryption)        
 
 ### Robotics and Hardware
 
