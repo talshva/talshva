@@ -110,3 +110,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=Ben-Gurion-University-Exercises)](https://github.com/talshva/Ben-Gurion-University-Exercises)
 
 
+[GitHub Profile Views Counter]: https://github.com/talshva/github-profile-views-counter
