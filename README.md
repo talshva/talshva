@@ -56,11 +56,6 @@
         <!-- Activity Widget -->
         <img alt="Tal Shvartzberg's GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=talshva&show_icons=true&theme=radical" />
-            
-               <a href="https://github.com/talshva/github-profile-views-counter">
-                   <img src="https://komarev.com/ghpvc/?username=talshva">
-                </a>
-
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
@@ -80,6 +75,9 @@
         <a href="https://www.linkedin.com/in/TalShva/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
+        <a href="https://github.com/talshva/github-profile-views-counter">
+         <img src="https://komarev.com/ghpvc/?username=talshva">
+         </a>
     </p>
 </details>
 <br>
