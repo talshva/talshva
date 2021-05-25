@@ -57,8 +57,9 @@
         <img alt="Tal Shvartzberg's GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=talshva&show_icons=true&theme=radical" />
             
-                <a href="https://github.com/talshva/github-profile-views-counter">
-
+               <a href="https://github.com/talshva/github-profile-views-counter">
+                   <img src="https://komarev.com/ghpvc/?username=talshva">
+                </a>
 
         <br>
         <!-- Social Links -->
