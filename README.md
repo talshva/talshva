@@ -76,7 +76,7 @@
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
         <a href="https://github.com/talshva/github-profile-views-counter">
-              <img src="https://komarev.com/ghpvc/?username=antonkomarev">
+              <img src="https://komarev.com/ghpvc/?username=talshva">
          </a>
     </p>
 </details>
