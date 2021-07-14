@@ -106,7 +106,8 @@
 
 ### Robotics and Hardware
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=Chaldni-Plate)](https://github.com/talshva/Chaldni-Plate)
+        
 ### Other
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=Tic-Tac-Toe)](https://github.com/talshva/Tic-Tac-Toe)
 
