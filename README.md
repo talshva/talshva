@@ -94,6 +94,12 @@
 
 ## My Projects
 
+
+### Robotics and Hardware
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=Chaldni-Plate)](https://github.com/talshva/Chaldni-Plate)
+        
+
 ### Web
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=MineSweeper)](https://github.com/talshva/MineSweeper)
@@ -104,10 +110,7 @@
         
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=String-Encryption)](https://github.com/talshva/String-Encryption)        
 
-### Robotics and Hardware
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=Chaldni-Plate)](https://github.com/talshva/Chaldni-Plate)
-        
 ### Other
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=Tic-Tac-Toe)](https://github.com/talshva/Tic-Tac-Toe)
 
