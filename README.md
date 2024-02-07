@@ -99,6 +99,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=Chaldni-Plate)](https://github.com/talshva/Chaldni-Plate)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=IOT-Final-Project)](https://github.com/talshva/IOT-Final-Project)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=DCS-Final-Project)](https://github.com/talshva/DCS-Final-Project)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=CPU-Final-Project)](https://github.com/talshva/CPU-Final-Project)
