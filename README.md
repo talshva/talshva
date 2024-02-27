@@ -97,19 +97,24 @@
 
 ### Robotics and Hardware
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=Chaldni-Plate)](https://github.com/talshva/Chaldni-Plate)
+#### HDL Projects and FPGA:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=IOT-Final-Project)](https://github.com/talshva/IOT-Final-Project)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=DCS-Final-Project)](https://github.com/talshva/DCS-Final-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=DDLS-Final-Project)](https://github.com/talshva/DDLS-Final-Project)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=CPU-Final-Project)](https://github.com/talshva/CPU-Final-Project)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=CPU-Lab-3)](https://github.com/talshva/CPU-Lab-3)
 
+#### Microcontrollers and Embedded Systems:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=DCS-Final-Project)](https://github.com/talshva/DCS-Final-Project)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=IOT-Final-Project)](https://github.com/talshva/IOT-Final-Project)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=Chaldni-Plate)](https://github.com/talshva/Chaldni-Plate)
         
 
-### Web
+### Software and Web
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=MineSweeper)](https://github.com/talshva/MineSweeper)
 
@@ -119,8 +124,6 @@
         
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=String-Encryption)](https://github.com/talshva/String-Encryption)        
 
-
-### Other
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=Tic-Tac-Toe)](https://github.com/talshva/Tic-Tac-Toe)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=Ben-Gurion-University-Exercises)](https://github.com/talshva/Ben-Gurion-University-Exercises)
