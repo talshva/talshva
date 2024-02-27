@@ -99,7 +99,7 @@
 
 #### HDL Projects and FPGA:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=DDLS-Final-Project)](https://github.com/talshva/DDLS-Final-Project)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=CPU-Final-Project)](https://github.com/talshva/CPU-Final-Project)
 
