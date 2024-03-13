@@ -116,6 +116,8 @@
 
 ### Software and Web
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=HuffmanCoding)](https://github.com/talshva/HuffmanCoding)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=MineSweeper)](https://github.com/talshva/MineSweeper)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=Game-of-Life)](https://github.com/talshva/Game-of-Life)
