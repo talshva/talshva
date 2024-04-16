@@ -94,7 +94,7 @@
 
 ## My Projects
 
-### Final Engineering Project - Hovering Autonomious Underwater Vehicle
+### Final Engineering Project - Hovering Autonomous Underwater Vehicle (HAUV)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=HAUV-Final-Engineering-Project)](https://github.com/talshva/HAUV-Final-Engineering-Project)
 
