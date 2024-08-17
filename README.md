@@ -98,7 +98,6 @@
 
 #### Final Engineering Project:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talshva&repo=HAUV-Final-Engineering-Project)](https://github.com/talshva/HAUV-Final-Engineering-Project)
 
 #### HDL Projects and FPGA:
 
