@@ -11,9 +11,9 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 From Beer Sheva, Israel 」
+                「 From Givatayim, Israel 」
                 <br>
-                「 Computer Engineering student <b target="_blank" href="https://in.bgu.ac.il/en/pages/default.aspx/">@ Ben Gurion University<b> 」
+                「 Computer Engineer 」
                 <br>
                 <br>
         </samp>
